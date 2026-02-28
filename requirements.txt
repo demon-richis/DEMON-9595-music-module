@@ -1,6 +1,0 @@
-discord.py[voice]==2.6.4
-yt-dlp
-python-dotenv
-PyNaCl
-lyricsgenius
-requests
